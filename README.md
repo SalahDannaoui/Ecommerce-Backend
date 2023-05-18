@@ -20,7 +20,7 @@ Install node js on your computer. have a MySQL account ready and install MySQL o
 To start viewing the different requests (get, post, put, delete), use a software such as Insomnia and the relevent endpoints.
 
 ## Walkthrough Video
-https://drive.google.com/file/d/1XKA4n-CFnIeXENjFddHy1s7kphCTlwBj/view
+https://drive.google.com/file/d/11xBD4k_N85IQHCnMV-Ffc1Mq0umCSzbm/view
 ## License
 MIT License https://opensource.org/licenses/MIT
 
